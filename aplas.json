@@ -9,14 +9,13 @@
       "description": "Organized tangible service-desk",
       "categoryId": "administration",
       "applicationSize": "medium",
-      "status": "standard",
       "licensing_cost": "99",
       "vendor_phone": "+52 400 963 9493",
       "status_color": "#00FF00",
       "department": "Engineering",
       "hostedtype": "OnPremise",
       "deployment_date": "4/6/14",
-      "investment_number": "494",
+      "investment_number": 494,
       "type": "OffShelf",
       "sme_email": "Tadd.Teese@memento.net.au",
       "investment_24m": "1055",
@@ -25,11 +24,11 @@
       "support_cost": "462",
       "vendor_contact_name": "Darleen Dorbin",
       "end_of_life": "15/4/18",
-      "months_to_renew_support": "9",
+      "months_to_renew_support": 9,
       "end_of_maintenance": "6/1/18",
       "integrations": [
         {
-          "assetId": "int-098",
+          "id": "int-098",
           "name": "INT-098",
           "shortName": null,
           "version": "2.37",
@@ -37,7 +36,6 @@
           "payload": "order quantities",
           "targetApplicationId": "social_innovation",
           "categoryId": "fuse",
-          "status": "standard",
           "sme_name": "Jessa Boncore",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -50,7 +48,7 @@
           "golive_date": "7/11/08"
         },
         {
-          "assetId": "int-041",
+          "id": "int-041",
           "name": "INT-041",
           "shortName": null,
           "version": "1.2.7",
@@ -58,7 +56,6 @@
           "payload": "PO ALL TRF Backdated, PO ALL TRF On Hand",
           "targetApplicationId": "social_innovation",
           "categoryId": "fuse",
-          "status": "standard",
           "sme_name": "Matelda Nuss",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -71,7 +68,7 @@
           "golive_date": "9/7/13"
         },
         {
-          "assetId": "int-304",
+          "id": "int-304",
           "name": "INT-304",
           "shortName": null,
           "version": "2.4.0",
@@ -79,7 +76,6 @@
           "payload": "PO Hierarchy PO Receipted Extract",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Maridel Finlan",
           "status_color": "#FFFF18",
           "department": "Integration",
@@ -92,7 +88,7 @@
           "golive_date": "9/1/11"
         },
         {
-          "assetId": "int-065",
+          "id": "int-065",
           "name": "INT-065",
           "shortName": null,
           "version": "8.3",
@@ -100,7 +96,6 @@
           "payload": "Debtor - Unclaimed RST Layby",
           "targetApplicationId": "social_innovation",
           "categoryId": "fuse",
-          "status": "standard",
           "sme_name": "Adelice Passby",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -113,7 +108,7 @@
           "golive_date": "22/12/02"
         },
         {
-          "assetId": "int-448",
+          "id": "int-448",
           "name": "INT-448",
           "shortName": null,
           "version": "0.69",
@@ -121,7 +116,6 @@
           "payload": "Product Location",
           "targetApplicationId": "wikiality",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Alfy Greader",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -134,7 +128,7 @@
           "golive_date": "1/12/13"
         },
         {
-          "assetId": "int-159",
+          "id": "int-159",
           "name": "INT-159",
           "shortName": null,
           "version": "7.6",
@@ -142,7 +136,6 @@
           "payload": "Refund at Bus Group Level",
           "targetApplicationId": "social_innovation",
           "categoryId": "mft",
-          "status": "standard",
           "sme_name": "Jessa Boncore",
           "status_color": "#00FF00",
           "department": "Integration",
